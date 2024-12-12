@@ -24,7 +24,7 @@ function Navbar() {
         <div className="w-1/4 flex justify-end mr-4">
           {/* User Profile Button */}
           <button className="flex items-center text-l py-1">
-            <NavLink to='/UserProfilePage' >
+            <NavLink to='/profile' >
               <img
                 src="https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-cohort-tools-routing/profile-1.png"
                 alt="Logo"
